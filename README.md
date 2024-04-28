@@ -17,9 +17,11 @@ The *Stock Data Analysis Dashboard* is a Python project developed as part of the
 - Matplotlib generated dynamic charts and graphs, allowing users to explore stock trends.
 - Key visualizations include:
     - Tesla Stock Price Trends: A line chart showing Tesla's historical stock prices.
-     ![Q-5](https://github.com/AditiMudgal99/Extracting-and-Visualizing-Stock-Data/assets/166621834/a879c447-9ce6-468e-959d-9f1ec966b237)
+     ![Tesla](https://github.com/AditiMudgal99/Extracting-and-Visualizing-Stock-Data/assets/166621834/8de353f6-098d-4b0c-bda4-6876d3135f0e)
+
       
     - GameStop Stock Price Comparison: A line chart GameStop's historical stock prices.
-     ![Q-6](https://github.com/AditiMudgal99/Extracting-and-Visualizing-Stock-Data/assets/166621834/587bede5-86c1-49b5-b119-1566b078687d)
+      ![GameStop](https://github.com/AditiMudgal99/Extracting-and-Visualizing-Stock-Data/assets/166621834/4590c6b8-cffb-45e1-9928-899fbce269c9)
+
 
   Feel free to explore the complete Jupyter Notebook in the repository. Your feedback and contributions are welcome! 📈🚀
