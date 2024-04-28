@@ -19,3 +19,7 @@
    - Improved understanding of stock market trends and investment opportunities.
    - Strengthened technical skills in data handling and visualization.
    - Enhanced ability to communicate complex information effectively.
+     
+**Dashboards**:
+![Q-5](https://github.com/AditiMudgal99/Extracting-and-Visualizing-Stock-Data/assets/166621834/a879c447-9ce6-468e-959d-9f1ec966b237)
+![Q-6](https://github.com/AditiMudgal99/Extracting-and-Visualizing-Stock-Data/assets/166621834/587bede5-86c1-49b5-b119-1566b078687d)
